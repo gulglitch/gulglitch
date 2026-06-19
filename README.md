@@ -12,7 +12,7 @@
 I'm a passionate developer with diverse interests spanning mobile development, machine learning, and low-level programming.
 
 - 🔭 Currently learning and building **AI models and automation**
-- � Building games in **x86 Assembly** (DOS) - Because why not? 
+- 🎮 Building games in **x86 Assembly** (DOS) - Because why not? 
 - 🤖 Exploring **Machine Learning** - Neural networks, spam classification, and data science
 - 📱 Crafting mobile experiences with **React Native** and **Expo**
 - 💼 Open to collaboration and opportunities
