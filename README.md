@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gul E Zara
+# Hi there! 👋 I'm Gul e Zara
 
 <!-- Animated typing header -->
 <p align="center">
@@ -11,7 +11,7 @@
 
 I'm a passionate developer with diverse interests spanning mobile development, machine learning, and low-level programming.
 
-- 🔭 Currently working on **Smart Solver AI** - An AI-powered problem-solving application
+- 🔭 Currently learning and building **AI models and automation**
 - � Building games in **x86 Assembly** (DOS) - Because why not? 
 - 🤖 Exploring **Machine Learning** - Neural networks, spam classification, and data science
 - 📱 Crafting mobile experiences with **React Native** and **Expo**
