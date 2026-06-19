@@ -22,7 +22,7 @@ I'm a passionate developer with diverse interests spanning mobile development, m
 
 ## ⭐ LATEST PROJECTS
 
-| 🏥 **MEDIQUEUE** | � **EVIDENTIA** |
+| 🏥 **MEDIQUEUE** | 📋 **EVIDENTIA** |
 |---|---|
 | **[Mediqueue](https://github.com/gulglitch/MediQueue)** <br> Healthcare queue management system streamlining patient flow and reducing wait times in medical facilities. <br><br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | **[Evidentia](https://github.com/gulglitch/Evidentia)** <br> Evidence management and documentation platform for legal and investigative purposes. <br><br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
