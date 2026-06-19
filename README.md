@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+ML+Enthusiast;React+Native+%2B+Python+%2B+Assembly+Developer;Building+AI-powered+solutions;x86+Assembly+Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,11 +20,11 @@ I'm a passionate developer with diverse interests spanning mobile development, m
 
 ---
 
-## ⭐ NOW BUILDING
+## ⭐ LATEST PROJECTS
 
-| 🚀 **FLAGSHIP PROJECT** | 📱 **MOBILE APP** |
+| 🏥 **MEDIQUEUE** | � **EVIDENTIA** |
 |---|---|
-| **[Smart Solver AI](https://github.com/gulglitch/smart-solver-ai)** <br> AI-powered problem-solving application leveraging machine learning to provide intelligent solutions. <br><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | **[React Native CRUD App](https://github.com/gulglitch/react-native-crud-app)** <br> Full-featured mobile CRUD application with backend integration. <br><br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **[Mediqueue](https://github.com/gulglitch/MediQueue)** <br> Healthcare queue management system streamlining patient flow and reducing wait times in medical facilities. <br><br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | **[Evidentia](https://github.com/gulglitch/Evidentia)** <br> Evidence management and documentation platform for legal and investigative purposes. <br><br> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ---
 
