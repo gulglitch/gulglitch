@@ -44,7 +44,7 @@ I'm a passionate developer with diverse interests spanning mobile development, m
 
 ## 🏆 HIGHLIGHTS
 
-| 🎮 **Low-Level Programming** | 🤖 **Machine Learning** | � **Mobile Development** | 💻 **Full-Stack Projects** |
+| 🎮 **Low-Level Programming** | 🤖 **Machine Learning** | 📱 **Mobile Development** | 💻 **Full-Stack Projects** |
 |---|---|---|---|
 | Assembly language games for DOS | Neural networks & classification | React Native CRUD applications | Python + JavaScript solutions |
 
